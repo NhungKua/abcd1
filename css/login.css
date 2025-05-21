@@ -119,7 +119,7 @@
     padding-left: 6px;
 }
 body {
-    background-image: url("/baitaplon/webbanmypham/img/wall1.png");
+    background-image: url("img/wall1.png");
     background-size: cover; /* Ảnh phủ kín toàn bộ màn hình */
     height: 100vh; /* Chiều cao của trang web bằng 100% chiều cao màn hình */
 }
