@@ -1,0 +1,30 @@
+/* Tổng quan về bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+/* Phong cách cho ô tiêu đề */
+th {
+    background-color: #83b199c2;
+    text-align: left;
+    padding: 10px;
+    border: 1px solid #ddd;
+    font-weight: bold;
+    width: 125px;
+}
+
+/* Phong cách cho ô nội dung */
+td {
+    padding: 10px;
+    border: 1px solid #ddd;
+}
+
+/* Danh sách */
+ol {
+    margin: 0;
+    padding-left: 20px;
+}
+

@@ -1,0 +1,43 @@
+.pro-right-content-item {
+    width: 22%;
+    text-align: center;
+    padding: 12px 0;
+    margin-right: 48px;
+
+}
+.pro-right-content-item h1 {
+    font-size: 13.5px;
+    margin-top: 16px;
+    margin-bottom: 2px;
+    color: #333333;
+
+}
+.pro-right-content-item img {
+    width: 100%;
+}
+.pro-right-content-item p {
+    font-size: 18px;
+    font-weight: bold;
+    color: #07ad6e;
+}
+.pro-right-content-item img {
+    transition: transform 0.15s ease; /* Hiệu ứng mượt mà */
+}
+
+.pro-right-content-item img:hover {
+    transform: scale(1.09); /* Phóng to 9% */
+}
+.pro-right-content-item a h1:hover {
+    text-decoration:  underline;
+}
+.pro-gia-khac {
+    font-size: 15px;
+    font-weight: normal;
+    color: #817c7c9d;
+    text-decoration: line-through; /* Gạch ngang chữ */
+    font-style: italic;
+    padding-left: 20px;
+}
+.product-content {
+    padding-left: 60px;
+}

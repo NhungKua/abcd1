@@ -1,0 +1,49 @@
+.index-content-cartegory{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+.index-content-cartegory-item {
+    width: 19%;
+    margin-right: 20px;
+    margin-bottom: 55px;
+    margin-top: 40px;
+}
+.index-content-cartegory-item img {
+    width: 90%;
+    margin-bottom: 15px;
+    transition: transform 0.15s ease; /* Hiệu ứng mượt mà */
+}
+.index-content-cartegory-item p {
+    font-size: 23px;
+    color: #139753 ;
+    font-weight: bold;
+    text-align: center;
+    padding-left: 20px;
+    line-height: 1.1; 
+}
+.giakhac {
+    font-size: 19px;
+    font-weight: normal;
+    color: #817c7c9d;
+    text-decoration: line-through; /* Gạch ngang chữ */
+    font-style: italic;
+    padding-left: 20px;
+}
+
+.index-content-cartegory-item-title {
+    font-size: 15px;
+    font-weight: normal;
+    color: #093b22a9;
+    text-align: center;
+    padding-top: 5px;
+}
+.index-content-cartegory-item img:hover {
+    transform: scale(1.09); /* Phóng to 9% */
+}
+.index-content-cartegory-item-title:hover {
+    color: #e28090;
+}
+.index-content-cartegory-item:hover {
+    border-radius: 10%;
+}

@@ -1,0 +1,22 @@
+/* Định dạng bảng */
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+    font-size: 16px;
+    text-align: left;
+}
+
+/* Định dạng tiêu đề bảng */
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+th {
+    background-color: #28b37da1;
+}
+
+.align-right {
+    text-align: left;
+}

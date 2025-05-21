@@ -1,0 +1,108 @@
+.sign-up {
+    padding-top: 120px;
+    padding-left: 60px;
+    margin-bottom: 200px;
+    padding-right: 60px;
+}
+.container-sign-up {
+    margin-left: 50%;
+    margin-right: 5%;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background-color: rgb(255, 255, 255);
+}
+.sign-up-title p {
+    font-size: 25px;
+    text-align: center;
+    padding-bottom: 20px;
+    font-weight: bold;
+    color: #008A56;
+}
+.sign-up-title2 hr {
+    border: 1px dashed #008A56 ;
+}
+.sign-up-content {
+    margin-top: 20px;
+}
+.sign-up-content > p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+.sign-up-content-input-top {
+    justify-content: space-between;
+
+}
+.sign-up-content-input-top-item {
+    width: 49%;
+}
+.sign-up-content-input-top-item1 {
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.sign-up-content-input-top-item1 input {
+    width: 100%;
+    height: 35px;
+    border: 1px solid #dddddd;
+    padding-left: 6px;
+}
+.sign-up-content-input-top-item1 select {
+    width: 100%;
+    height: 35px;
+    border: 1px solid #dddddd;
+    padding-left: 6px;
+}
+.sign-up-content-input-top-item input {
+    width: 100%;
+    height: 35px;
+    border: 1px solid #dddddd;
+    padding-left: 6px;
+}
+.sign-up-content-input-bottom {
+    margin-bottom: 10px;
+}
+.sign-up-content-input-bottom input{
+    width: 100%;
+    height: 35px;
+    border: 1px solid #dddddd;
+    padding-left: 6px;
+}
+.sign-up-content-input-top {
+    margin-top: 15px;
+}
+.sign-up-content-input-top-item {
+    margin-bottom: 10px;
+}
+.sign-up-content-input-top-item1 {
+    margin-bottom: 10px;
+}
+.sign-up-content-input-bottom {
+    margin-bottom: 10px;
+}
+.sign-up-content-button {
+    text-align: center;
+    padding-left: 150px;
+    margin-top: 25px;
+}
+.sign-up-content-button button {
+    height: 45px;
+    width: 150px;
+    border: 2px solid #008A56;
+    padding: 6px 12px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    color: #008A56;
+    background-color: white;
+    text-align: center;
+}
+.sign-up-content-button button:hover {
+    background-color: #008A56;
+    color: #fff;
+}
+body {
+    background-image: url("/baitaplon/webbanmypham/img/wall1.png");
+    background-size: cover; /* Ảnh phủ kín toàn bộ màn hình */
+    height: 100vh; /* Chiều cao của trang web bằng 100% chiều cao màn hình */
+}
